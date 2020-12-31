@@ -14,7 +14,7 @@ Having trouble with City Challenge? [Contact me](https://www.iubenda.com/privacy
 
 ### Imprint and Privacy Policy
 
-The app uses Mapbox to display the maps widget and Firebase so that I know how many users are roughly using it per month.
+The app uses Mapbox to display the maps widget. Apart from that, I don't use third-party libraries.
 
 For more information, take a look at the [simplified](https://www.iubenda.com/privacy-policy/38160969) or the [full privacy policy](https://www.iubenda.com/privacy-policy/38160969/legal).
 
