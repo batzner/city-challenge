@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-title: [The title of your site]
-description: [A short description of your site's purpose]
-logo: logo-transparent.png
-show_downloads: true
+title: City Challenge
+description: World Geography Quiz App
+logo: img/logo.png
