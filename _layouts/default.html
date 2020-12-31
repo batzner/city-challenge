@@ -8,6 +8,7 @@
     <title>City Challenge - World Geography Quiz App</title>
     {% seo title=false %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/css/style.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -20,9 +21,8 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}}
-
+        <img class="app-icon" src="{{site.logo | relative_url}}" alt="Logo" width="246" height="246" />
+        {% endif %}
         {% if site.show_downloads %}
         <ul class="downloads">
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
