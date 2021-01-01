@@ -14,7 +14,7 @@ Having trouble with City Challenge? [Contact me](https://www.iubenda.com/privacy
 
 ### Imprint and Privacy Policy
 
-The app uses Mapbox to display the map widget. Apart from that, it does not use third-party libraries.
+To display the map widget the app uses Mapbox with telemetry disabled. Apart from that, it does not use third-party libraries.
 
 For more information, take a look at the [simplified](https://www.iubenda.com/privacy-policy/38160969) or the [full privacy policy](https://www.iubenda.com/privacy-policy/38160969/legal).
 
